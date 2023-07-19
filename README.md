@@ -3,4 +3,4 @@
 
 ### 🎮 [Study U&I](https://docs.welldonestudio.io/tutorials/sui-game/game), is playable now.
 
-### 👉🏻 [Educational Tutorial:Build a Game on Sui with VRF and Dynamic NFTs](https://docs.welldonestudio.io/tutorials/sui-game/)
+### 👉🏻 Educational Tutorial: [Build a Game on Sui with VRF and Dynamic NFTs](https://docs.welldonestudio.io/tutorials/sui-game/)
